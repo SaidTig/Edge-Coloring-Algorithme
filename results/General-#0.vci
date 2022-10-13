@@ -1,0 +1,59 @@
+file 2120 1621035250                                            
+version 2
+run General-0-20210515-01:33:58-72223
+attr configname General
+attr datetime 20210515-01:33:58
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Edge_Coloring
+attr processid 72223
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+vector 0 Edge_Coloring.node[15] numCount ETV
+vector 1 Edge_Coloring.node[9] numCount ETV
+vector 2 Edge_Coloring.node[11] numCount ETV
+vector 3 Edge_Coloring.node[13] numCount ETV
+vector 4 Edge_Coloring.node[18] numCount ETV
+vector 5 Edge_Coloring.node[7] numCount ETV
+vector 6 Edge_Coloring.node[14] numCount ETV
+vector 7 Edge_Coloring.node[17] numCount ETV
+vector 8 Edge_Coloring.node[16] numCount ETV
+vector 9 Edge_Coloring.node[6] numCount ETV
+vector 10 Edge_Coloring.node[5] numCount ETV
+vector 11 Edge_Coloring.node[3] numCount ETV
+vector 12 Edge_Coloring.node[8] numCount ETV
+vector 13 Edge_Coloring.node[10] numCount ETV
+vector 14 Edge_Coloring.node[1] numCount ETV
+vector 15 Edge_Coloring.node[19] numCount ETV
+vector 16 Edge_Coloring.node[2] numCount ETV
+vector 17 Edge_Coloring.node[0] numCount ETV
+vector 18 Edge_Coloring.node[4] numCount ETV
+vector 19 Edge_Coloring.node[12] numCount ETV
+0	1260 97 1 76 0.1 0.1 9 1 9 45 285
+1	1357 76 2 72 0.1 0.1 7 1 7 28 140
+2	1433 31 3 19 0.1 0.1 3 1 3 6 14
+3	1464 42 4 62 0.1 0.1 4 1 4 10 30
+4	1506 21 5 64 0.1 0.1 2 1 2 3 5
+5	1527 65 8 68 0.1 0.1 6 1 6 21 91
+6	1592 66 10 75 0.1 0.1 6 1 6 21 91
+7	1658 11 11 11 0.1 0.1 1 1 1 1 1
+8	1669 33 13 25 0.1 0.1 3 1 3 6 14
+9	1702 33 14 44 0.1 0.1 3 1 3 6 14
+10	1735 36 17 67 0.1 0.1 3 1 3 6 14
+11	1771 48 20 69 0.1 0.1 4 1 4 10 30
+12	1819 48 22 53 0.1 0.1 4 1 4 10 30
+13	1867 60 23 73 0.1 0.1 5 1 5 15 55
+14	1927 48 30 70 0.1 0.1 4 1 4 10 30
+15	1975 60 36 65 0.1 0.1 5 1 5 15 55
+16	2035 24 43 58 0.1 0.1 2 1 2 3 5
+17	2059 12 57 57 0.1 0.1 1 1 1 1 1
+18	2071 24 59 66 0.1 0.1 2 1 2 3 5
+19	2095 24 61 74 0.1 0.1 2 1 2 3 5
+
